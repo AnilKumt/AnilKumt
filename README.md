@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&size=200&pause=1000&color=000000&width=1000&height=200&lines=Anil+Kumawat" alt="Typing SVG" />
+  </a>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Anil Kumawat</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilkumt" alt="anilkumt" /></a> </p>
 
