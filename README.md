@@ -2,7 +2,7 @@
 
 <img src="https://res.cloudinary.com/duqrxy27h/image/upload/v1762332538/github_banner_glkuic.png" alt="Anil Kumawat" width="100%"/>
 
-<a href="www.linkedin.com/in/anil-kumt"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white&style=for-the-badge" height="28"/></a>
+<a href="https://www.linkedin.com/in/anil-kumt"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white&style=for-the-badge" height="28"/></a>
 <a href="https://dev.to/anil_kumawat"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/></a>
 <a href="https://github.com/AnilKumt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
