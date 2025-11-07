@@ -191,7 +191,7 @@ Pursuing **B.Tech in Computer Science** _(Graduating 2027)_
 <h3 align="center">LocalGoods: E-Commerce Platform for Local & Antique Products</h3>
 
 <div align="center">
-  <img src="https://res.cloudinary.com/duqrxy27h/image/upload/v1762328802/local_ceiud5.jpg" width="100%"/>
+  <img src="https://res.cloudinary.com/duqrxy27h/image/upload/v1762506296/Screenshot_2025-11-07_143355_cab4md.png" width="100%"/>
 </div>
 
 <p align="center">
