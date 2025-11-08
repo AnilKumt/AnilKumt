@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://res.cloudinary.com/duqrxy27h/image/upload/v1762332538/github_banner_glkuic.png" alt="Anil Kumawat" width="100%"/>
+<p align="center">
+  <img src="https://res.cloudinary.com/duqrxy27h/image/upload/r_12,bo_5px_solid_black/v1762571410/github_banner_boelnm.png"
+       alt="Anil Kumawat" width="100%" />
+</p>
+
+
 
 <a href="https://www.linkedin.com/in/anil-kumt"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white&style=for-the-badge" height="28"/></a>
 <a href="https://dev.to/anil_kumawat"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/></a>
