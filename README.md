@@ -59,7 +59,7 @@
     <img src="tech-icons/redis.svg" alt="Redis" title="Redis" width="45" height="45" hspace="12" vspace="10" />
     <img src="tech-icons/firebase.svg" alt="Firebase" title="Firebase" width="45" height="45" hspace="12" vspace="10" />
     <img src="tech-icons/docker-icon.svg" alt="Docker" title="Docker" width="45" height="45" hspace="12" vspace="10" />
-    <img src="tech-icons/kafka.svg" alt="Kafka" title="Kafka" width="45" height="45" hspace="12" vspace="10" />
+    <img src="tech-icons/kafka-1.svg" alt="Kafka" title="Kafka" width="45" height="45" hspace="12" vspace="10" />
     <img src="tech-icons/jenkins.svg" alt="Jenkins" title="Jenkins" width="45" height="45" hspace="12" vspace="10" />
     <img src="tech-icons/github-actions.svg" alt="GitHub Actions" title="GitHub Actions" width="45" height="45" hspace="12" vspace="10" />
   </p>
