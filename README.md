@@ -5,24 +5,17 @@
 <br/>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="60%" valign="center">
-        <h2>About Me</h2>
-        <p>Hi, I'm Anil Kumawat!</p>
-        <p>I'm an aspiring developer passionate about building scalable full-stack applications, AI tools, and interactive user interfaces. I love learning new technologies and exploring open-source.</p>
-        <p>Pursuing B.Tech in Computer Science (Graduating 2027)</p>
-        <p>
-          <a href="https://www.linkedin.com/in/anil-kumt">LinkedIn</a> |
-          <a href="https://github.com/AnilKumt">GitHub</a> |
-          <a href="mailto:anilkumt51@gmail.com">Email</a>
-        </p>
-      </td>
-      <td width="40%" align="center">
-        <img src="https://res.cloudinary.com/duqrxy27h/image/upload/v1762324510/github_rpezac.gif" width="100%" alt="Developer"/>
-      </td>
-    </tr>
-  </table>
+  <h2>About Me</h2>
+  <p>Hi, I'm Anil Kumawat!</p>
+  <p>I'm an aspiring developer passionate about building scalable full-stack applications, AI tools, and interactive user interfaces. I love learning new technologies and exploring open-source.</p>
+  <p>Pursuing B.Tech in Computer Science (Graduating 2027)</p>
+  <p>
+    <a href="https://www.linkedin.com/in/anil-kumt">LinkedIn</a> |
+    <a href="https://github.com/AnilKumt">GitHub</a> |
+    <a href="mailto:anilkumt51@gmail.com">Email</a>
+  </p>
+  <br/>
+  <img src="https://res.cloudinary.com/duqrxy27h/image/upload/v1762324510/github_rpezac.gif" width="380" alt="Developer"/>
 </div>
 
 ---
