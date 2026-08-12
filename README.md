@@ -37,36 +37,33 @@
     <img src="tech-icons/nextjs.svg" alt="Next.js" title="Next.js" width="45" height="45" hspace="12" vspace="10" />
     <img src="tech-icons/redux.svg" alt="Redux" title="Redux" width="45" height="45" hspace="12" vspace="10" />
     <img src="tech-icons/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" width="45" height="45" hspace="12" vspace="10" />
-    <img src="tech-icons/framer.svg" alt="Framer" title="Framer" width="45" height="45" hspace="12" vspace="10" />
     <img src="tech-icons/nodejs.svg" alt="Node.js" title="Node.js" width="45" height="45" hspace="12" vspace="10" />
-    <img src="tech-icons/nodejs-icon.svg" alt="Node.js Icon" title="Node.js Icon" width="45" height="45" hspace="12" vspace="10" />
     <img src="tech-icons/express.svg" alt="Express" title="Express" width="45" height="45" hspace="12" vspace="10" />
     <img src="tech-icons/fastapi.svg" alt="FastAPI" title="FastAPI" width="45" height="45" hspace="12" vspace="10" />
-  </p>
-  <p>
     <img src="tech-icons/flask.svg" alt="Flask" title="Flask" width="45" height="45" hspace="12" vspace="10" />
     <img src="tech-icons/graphql.svg" alt="GraphQL" title="GraphQL" width="45" height="45" hspace="12" vspace="10" />
+  </p>
+  <p>
     <img src="tech-icons/pytorch.svg" alt="PyTorch" title="PyTorch" width="45" height="45" hspace="12" vspace="10" />
     <img src="tech-icons/tensorflow.svg" alt="TensorFlow" title="TensorFlow" width="45" height="45" hspace="12" vspace="10" />
     <img src="tech-icons/hugging-face-icon.svg" alt="Hugging Face" title="Hugging Face" width="45" height="45" hspace="12" vspace="10" />
     <img src="tech-icons/opencv.svg" alt="OpenCV" title="OpenCV" width="45" height="45" hspace="12" vspace="10" />
     <img src="tech-icons/numpy.svg" alt="NumPy" title="NumPy" width="45" height="45" hspace="12" vspace="10" />
     <img src="tech-icons/pandas.svg" alt="Pandas" title="Pandas" width="45" height="45" hspace="12" vspace="10" />
-  </p>
-  <p>
     <img src="tech-icons/mongodb.svg" alt="MongoDB" title="MongoDB" width="45" height="45" hspace="12" vspace="10" />
     <img src="tech-icons/mysql.svg" alt="MySQL" title="MySQL" width="45" height="45" hspace="12" vspace="10" />
+  </p>
+  <p>
     <img src="tech-icons/redis.svg" alt="Redis" title="Redis" width="45" height="45" hspace="12" vspace="10" />
-    <img src="tech-icons/firebase.svg" alt="Firebase" title="Firebase" width="45" height="45" hspace="12" vspace="10" />
     <img src="tech-icons/docker-icon.svg" alt="Docker" title="Docker" width="45" height="45" hspace="12" vspace="10" />
     <img src="tech-icons/kafka.svg" alt="Kafka" title="Kafka" width="45" height="45" hspace="12" vspace="10" />
     <img src="tech-icons/jenkins.svg" alt="Jenkins" title="Jenkins" width="45" height="45" hspace="12" vspace="10" />
     <img src="tech-icons/github-actions.svg" alt="GitHub Actions" title="GitHub Actions" width="45" height="45" hspace="12" vspace="10" />
-  </p>
-  <p>
     <img src="tech-icons/microsoft-azure.svg" alt="Microsoft Azure" title="Microsoft Azure" width="45" height="45" hspace="12" vspace="10" />
     <img src="tech-icons/git-icon.svg" alt="Git" title="Git" width="45" height="45" hspace="12" vspace="10" />
     <img src="tech-icons/github-icon.svg" alt="GitHub" title="GitHub" width="45" height="45" hspace="12" vspace="10" />
+  </p>
+  <p>
     <img src="tech-icons/figma.svg" alt="Figma" title="Figma" width="45" height="45" hspace="12" vspace="10" />
     <img src="tech-icons/stripe.svg" alt="Stripe" title="Stripe" width="45" height="45" hspace="12" vspace="10" />
     <img src="tech-icons/lighthouse.svg" alt="Lighthouse" title="Lighthouse" width="45" height="45" hspace="12" vspace="10" />
